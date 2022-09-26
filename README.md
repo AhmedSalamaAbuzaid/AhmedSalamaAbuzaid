@@ -1,4 +1,8 @@
-### Hi there 👋
+<p>
+<h1 align='center'> Hi there 👋 </h1>
+</p>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+ahmed+salama;Front-end+Web+Developer;self+taught+love+to+learn+more+;♥☻+wish+me+luck+☻♥">
 
 <!--
 **AhmedSalamaAbuzaid/AhmedSalamaAbuzaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,3 +60,10 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsalamaabuzaid&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="ahmedsalamaabuzaid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsalamaabuzaid&show_icons=true&theme=tokyonight&locale=en" alt="ahmedsalamaabuzaid" /></p>
+
+<br>
+
+## Just a snake eating my contributions 🐍
+<p align='center'>
+<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+</p>
