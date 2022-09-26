@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedSalamaAbuzaid](https://github.com/AhmedSalamaAbuzaid)
 
-- 📝 I regularly write articles on [https://www.facebook.com/ahmedsalamaa/](https://www.facebook.com/ahmedsalamaa/)
-
 - 💬 Ask me about **web designing**
 
 - 📫 How to reach me **nimo20095@gmail.com**
