@@ -2,7 +2,7 @@
 <h1 align='center'> Hi there 👋 </h1>
 </p>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+ahmed+salama;Front-end+Web+Developer;self+taught;Hunger+to+learn+more+;♥☻+wish+luck+for+you+all+☻♥">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+ahmed;Front-end+Web+Developer;self+taught;Hunger+to+learn+more+;♥☻+wish+luck+for+you+all+☻♥">
 
 <!--
 **AhmedSalamaAbuzaid/AhmedSalamaAbuzaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">📝 I'M AHMED SALAMA ABUZAID 📝</h1>
+<h1 align="center">📝 AHMED SALAMA ABUZAID 📝</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedsalamaabuzaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsalamaabuzaid" /> </p>
