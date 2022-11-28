@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1></h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [kasper-template2](https://github.com/AhmedSalamaAbuzaid/kasper-template2)
+- 🔭 I’m currently working on [My-Portfolio](https://github.com/AhmedSalamaAbuzaid/My-Portfolio)
 
 - 🌱 I’m currently learning **Framworks**
 
